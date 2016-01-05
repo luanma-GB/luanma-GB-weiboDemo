@@ -1,4 +1,4 @@
 # luanma-GB-weiboDemo
 
 
-这是一个mj demo，仅仅为了自己查看学习
+这是一个mj仿新浪微博框架demo
